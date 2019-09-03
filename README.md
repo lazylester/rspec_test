@@ -1,4 +1,5 @@
 # README
+minimal rails app to repro rspec issue
 
 ruby 2.3.1
 rails 5.2.3
